@@ -64,7 +64,7 @@ Dan bersifat sebaliknya, **TCP** bersifat *connection-oriented*, yang dimana pro
 
 # 3. Implementasi & Penjelasan Program
 
-Untuk melakukan konfigurasi **TCP & UDP Client-Server**, digunakan bahasa pemrograman `Python` dengan memanfaatkan modul *socket*.  
+Untuk melakukan konfigurasi **TCP & UDP Client-Server**, digunakan bahasa pemrograman `🐍Python` dengan memanfaatkan modul *socket*.  
 Setiap implementasi dipisahkan ke dalam direktori yang berbeda agar lebih terstruktur dan mudah dipelajari.
 
 Penjelasan langkah demi langkah dapat dilihat pada masing-masing bagian berikut:
