@@ -1,4 +1,4 @@
-# 🟩 TCP Client-Server || Konfigurasi Step by Step
+# 🟦 TCP Client-Server || Konfigurasi Step by Step
 
 > [!NOTE]
 > ## ❕ Disclaimer  
