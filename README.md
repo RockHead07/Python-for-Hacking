@@ -64,7 +64,20 @@ Dan bersifat sebaliknya, **TCP** bersifat *connection-oriented*, yang dimana pro
 
 # 3. Implementasi & Penjelasan Program
 
-Untuk melakukan konfigurasi **TCP & UDP Client-Server**, digunakan bahasa pemrograman `🐍Python` dengan memanfaatkan modul *socket*.  
+Untuk melakukan konfigurasi **TCP & UDP Client-Server**, digunakan bahasa pemrograman `🐍Python` dengan memanfaatkan modul *socket*. Jadi, pastikan terlebih dahulu anda telah menginstall `Python 3.x` atau *latest verison* nya. Jalankan perintah berikut pada *terminal* anda untuk memastikan apakah `Python` sudah terinstall atau belum:
+
+```bash
+python --version
+py --version
+```
+
+Apabila *output* nya menampilkan keluaran dari versi `Python` itu sendiri, misalya seperti:
+
+```bash
+Python 3.13.5
+```
+
+ maka artinya Python sudah terinstall di perangkat mu.
 
 Setiap implementasi dipisahkan ke dalam direktori yang berbeda agar lebih terstruktur dan mudah dipelajari.
 
