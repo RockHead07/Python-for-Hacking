@@ -1,11 +1,22 @@
 # 🟩 UDP Client-Server || Konfigurasi Step by Step
 
 > [!NOTE]
-> ## 📌 Disclaimer  
+> ## ❕ Disclaimer  
 > Seluruh langkah dan kode pada repository ini disusun berdasarkan materi dan video referensi yang diberikan oleh dosen.  
 > Konten asli pada video tersebut bukan milik saya; seluruh hak cipta tetap pada pemilik resminya.  
-> 🔗 Referensi video: `<LINK_VIDEO>`
-
+> 
+> 🔗 **Referensi Video:**  
+> <div align="center">
+>
+> <a href="[LINK_VIDEO_1](https://www.youtube.com/watch?v=bKfDS1lOSho)">
+>   <img src="https://img.youtube.com/vi/bKfDS1lOSho/0.jpg" width="270">
+> </a>
+>
+> <a href="[LINK_VIDEO_2](https://www.youtube.com/watch?v=i1AOd7AQcok)">
+>   <img src="https://img.youtube.com/vi/i1AOd7AQcok/0.jpg" width="270">
+> </a>
+>
+> </div>
 
 Apabila anda ingin langsung mencoba *source code* saya, bisa langsung ambil saja dengan menggunakan langkah-langkah berikut:
 

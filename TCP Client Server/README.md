@@ -1,5 +1,19 @@
 # 🟩 TCP Client-Server || Konfigurasi Step by Step
 
+> [!NOTE]
+> ## ❕ Disclaimer  
+> Seluruh langkah dan kode pada repository ini disusun berdasarkan materi dan video referensi yang diberikan oleh dosen.  
+> Konten asli pada video tersebut bukan milik saya; seluruh hak cipta tetap pada pemilik resminya.  
+> 
+> 🔗 **Referensi Video:**  
+> <div align="center">
+>
+> <a href="[LINK_VIDEO_1](https://www.youtube.com/watch?v=GlVfVn17_ug)">
+>   <img src="https://img.youtube.com/vi/GlVfVn17_ug/0.jpg" width="270">
+> </a>
+>
+> </div>
+
 Apabila anda ingin langsung mencoba *source code* saya, bisa langsung ambil saja dengan menggunakan langkah-langkah berikut:
 
 **📎Clone Repository**
